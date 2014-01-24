@@ -1,0 +1,15 @@
+2009-01-17 nex <nex@autistici.org>
+
+* SymClass.cpp: implemented call and ret 
+
+* SymClass.cpp: stpush and stpop implemented in a LIFO stack
+
+* SymClass.cpp: inc and dec added
+
+* SymClass.cpp: char mode added
+
+* SymClass.cpp: fixed jump
+
+* SymClass.cpp: change display mode added
+
+* SymClass.cpp: Pseudo-bytecode interpreter

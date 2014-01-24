@@ -1,0 +1,8 @@
+Installing is very simple:
+
+$ make
+# make install
+
+Cleaning:
+
+$ make clean

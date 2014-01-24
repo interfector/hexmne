@@ -1,0 +1,19 @@
+#!/usr/local/bin/llmne -x
+# dummy program
+
+ONIZE:
+
+INC _START
+INC ONIZE
+PUSH ONIZE
+CMP TERM
+JN ONIZE
+
+END:
+EXIT 0
+
+TERM:
+23ff
+
+_START:
+0000

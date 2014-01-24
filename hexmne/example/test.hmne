@@ -1,0 +1,6 @@
+_START:
+0000
+
+READ ff
+WRITE ff
+INC _START+1
